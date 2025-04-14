@@ -8,4 +8,5 @@ type Activity = {
     venue: string
     latitude: number
     longitude: number
+    category: string
 }
